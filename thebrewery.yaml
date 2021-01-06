@@ -1,0 +1,4 @@
+name: openshift-sample-app
+description: 'Openshift Sample Application'
+framework: Amber.js
+template: Express.js
